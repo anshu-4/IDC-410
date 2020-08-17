@@ -1,3 +1,3 @@
 # News Recommender System
-This project was a part of IDC-410 (Machine Learning) at IISER Mohali. 
+This project was done as a part of the course IDC-410 (Machine Learning) at IISER Mohali. 
 
